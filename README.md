@@ -4,6 +4,7 @@
 - 🕮 Language Stack
   - PHP
   - JavaScript
+  - TypeScript
   - Python
   - C++
 - ✳️ Have Worked with Multiple Framework
