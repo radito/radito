@@ -7,7 +7,7 @@
   - TypeScript
   - Python
   - C++
-- ✳️ Have Worked with Multiple Framework
+- 🌎 Have Worked with Multiple Framework
   - Laravel
   - Yii
   - SlimPHP
