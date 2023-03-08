@@ -4,7 +4,7 @@
 - 🕮 Language Stack
 
     ![Language](https://skillicons.dev/icons?i=php,js,ts,py,cpp)
-- 🌎 Have Worked with Multiple Framework
+- 🌎 Have Worked with Various Framework
 
     ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
     ![Yii2](https://img.shields.io/badge/Yii2-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -14,7 +14,7 @@
     ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
  
- - 🚧 Favorite Tools
+ - 👨‍💻 Favorite Tools
  
     ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
