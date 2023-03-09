@@ -7,7 +7,8 @@
 - 🌎 Have Worked with Various Framework
 
     ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-    ![Yii2](https://img.shields.io/badge/Yii2-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![Yii2](https://img.shields.io/badge/Yii2-247ba0.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
+    ![Slim](https://img.shields.io/badge/Slim-719E40?style=for-the-badge&logo=gradle&logoColor=white)
     ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
     ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
     ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
