@@ -7,7 +7,7 @@
 - 🌎 Have Worked with Various Framework
 
     [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-    [![Yii2](https://img.shields.io/badge/Yii2-247ba0.svg?style=for-the-badge&logo=Leaflet&logoColor=white)](https://www.yiiframework.com/)
+    [![Svelte](https://img.shields.io/badge/svelte-%23F96743.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
     [![Slim](https://img.shields.io/badge/Slim-719E40?style=for-the-badge&logo=gradle&logoColor=white)](https://www.slimframework.com/)
     [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
     [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
