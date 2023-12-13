@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Blog [[Visit Me]](https://radito.github.io)
-- 🌱 I’m currently learning Machine Learning With Python !
+- 🌱 I’m currently learning Rust (finally) !
 - 🕮 Language Stack
 
-    ![Language](https://skillicons.dev/icons?i=php,js,ts,py,cpp)
+    ![Language](https://skillicons.dev/icons?i=js,ts,php,py,cpp)
 - 🌎 Have Worked with Various Framework
 
     [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
