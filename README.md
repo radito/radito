@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Blog [[Visit Me]](https://radito.github.io)
 - 🌱 I’m currently learning Rust (finally) !
-- 🕮 Language Stack
+- 📚 Language Stack
 
     ![Language](https://skillicons.dev/icons?i=js,ts,php,py,cpp)
 - 🌎 Have Worked with Various Framework
