@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Blog [[Visit Me]](https://radito.github.io)
-- 🌱 I’m currently learning Rust (finally) !
+- 🌱 I’m currently learning 🦀 Rust (finally) !
 - 📚 Language Stack
 
     ![Language](https://skillicons.dev/icons?i=js,ts,php,py,cpp)
